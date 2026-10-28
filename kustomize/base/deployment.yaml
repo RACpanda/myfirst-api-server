@@ -8,7 +8,7 @@ metadata:
     prometheus.io/scrape: 'true'
     prometheus.io/port: '8080'
     prometheus.io/path: '/actuator/prometheus'
-    update: 226d809f
+    update: 35fd190a
   name: sk056-myfirst-api-server
   namespace: class-2
   labels:
